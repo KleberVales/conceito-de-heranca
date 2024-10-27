@@ -8,6 +8,6 @@ O exercício "Java Inheritance II" envolve a criação de duas classes em Java:
 - Esta classe herda de uma superclasse chamada Arithmetic.
 
 ### Exemplo de Saída:
-Quando o código for executado, a saída esperada será:
+Quando o código for executado, a saída esperada será:\
 ![imagens/saida.png](imagens/saida.png)
 
